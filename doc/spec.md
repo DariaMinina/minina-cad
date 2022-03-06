@@ -72,7 +72,7 @@ It should be possible to create a teaser post - a cover and description text abo
 To implement the system, the following stack of technologies is proposed:
 1) Backend:
  a. Go
- b. ...
+ b. MySQL
 2) Frontend
  a. HTML/CSS
  b. Javascript
