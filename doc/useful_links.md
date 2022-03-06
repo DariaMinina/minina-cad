@@ -4,7 +4,7 @@
 
 What blogs need more attention:
 
-  1 https://matt.might.net/articles/
+  1. https://matt.might.net/articles/
   Why? Because all articles are divided into blocks, it's convenient.
   
   2. https://science-professor.blogspot.com
