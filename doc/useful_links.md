@@ -4,9 +4,10 @@
 
 What blogs need more attention:
 
-  1.1 https://matt.might.net/articles/
+  1 https://matt.might.net/articles/
   Why? Because all articles are divided into blocks, it's convenient.
-  1.2 https://science-professor.blogspot.com
+  
+  2. https://science-professor.blogspot.com
   Why? Focus on one topic.
   
 ## 2. [Project by "Диджитализируй"](https://github.com/alexey-goloburdin/thanks)
